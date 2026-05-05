@@ -1,2 +1,2 @@
-# lib_aar
-lib_aar
+# lib_qmf_ppplugin_android
+lib_qmf_ppplugin_android
